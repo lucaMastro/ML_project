@@ -1,0 +1,4 @@
+.direnv
+.ipynb_checkpoint
+default.nix
+.envrc
